@@ -1,2 +1,0 @@
-# WorldOfEmojis
-js13k
